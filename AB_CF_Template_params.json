@@ -1,7 +1,7 @@
 {
   "Parameters": {
     "KeyName": "abhishek-key-pair",
-    "SubnetId": "subnet-0f5394fd40ca216b5",
+    "SubnetId": "subnet-0ca3bfd9996fba723",
     "VpcId": "vpc-06194737ab5de5b8e",
     "SSHLocation": "0.0.0.0/0"
  }
