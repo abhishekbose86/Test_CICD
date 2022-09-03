@@ -4,17 +4,5 @@
     "SubnetId": "subnet-0f5394fd40ca216b5",
     "VpcId": "vpc-06194737ab5de5b8e",
     "SSHLocation": "0.0.0.0/0"
- },
-   "StackPolicy": {
-  
-  "Statement" : [
-    {
-      "Effect" : "Allow",
-      "Action" : "Update:*",
-      "Principal": "*",
-      "Resource" : "*"
-    }
-    
-  ]
-}
+ }
 }
